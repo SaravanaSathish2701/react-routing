@@ -1,0 +1,22 @@
+[
+  {
+    "title": "All",
+    "path": "/"
+  },
+  {
+    "title": "Full Stack",
+    "path": "/FullStack"
+  },
+  {
+    "title": "DataScience",
+    "path": "/DataScience"
+  },
+  {
+    "title": "CyberSecurity",
+    "path": "/CyberSecurity"
+  },
+  {
+    "title": "Devops",
+    "path": "/Devops"
+  }
+]
